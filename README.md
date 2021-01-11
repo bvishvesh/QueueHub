@@ -4,4 +4,6 @@ This is the Repository contains the two implementations Simple Queue and Circula
 ==> how to run file is described below?
 
 1.) First Download the QueueHub Repo zip.
-2.) Unzip it and where you unzipped the Folder.  
+2.) Unzip it and where you unzipped the Folder create the file in that folder.
+3.) For Simple Queue Write QueueHub.squeue import SQueue.
+4.) For Circular Queue Write QueueHub.cqueue import CQueue.
