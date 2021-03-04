@@ -1,5 +1,5 @@
 # QueueHub
-This is the Repository contains the two implementations Simple Queue and Circular Queue as there is no standard implementations of queue in python,so this is the standard implementation that you need just call some functions so  
+This is the Repository contains the two implementations Simple Queue and Circular Queue as there is no standard implementations of queue in python,so this is the standard implementation that you need just call some functions to implement the queue(Both simple and Circular).  
 
 ==> how to run file is described below?
 
